@@ -5,7 +5,7 @@
 
 <br><br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,javascript,git,github,linux,nodejs,mysql,postgresql&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,linux,nodejs,mysql,postgresql&perline=8"/>
 </p>
 
 </p>
