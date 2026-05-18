@@ -8,8 +8,8 @@
 
 <br />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=PinkMath&style=flat-square&color=ff79c6&label=profile+views)](https://github.com/PinkMath)
-[![GitHub followers](https://img.shields.io/github/followers/PinkMath?style=flat-square&label=followers&color=bd93f9&labelColor=0d1117)](https://github.com/PinkMath?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=loavy&style=flat-square&color=ff79c6&label=profile+views)](https://github.com/loavy)
+[![GitHub followers](https://img.shields.io/github/followers/loavy?style=flat-square&label=followers&color=bd93f9&labelColor=0d1117)](https://github.com/loavy?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Souza-8be9fd?style=flat-square&labelColor=0d1117&logo=linkedin)](https://www.linkedin.com/in/matheussouza2008)
 
 </div>
@@ -20,7 +20,7 @@
 
 ```txt
 name        : Matheus Souza
-username    : PinkMath
+username    : loavy
 focus       : Full-stack, UI, APIs, Linux, tooling
 editor      : Neovim / VS Code
 os          : Arch Linux + Windows
@@ -75,16 +75,16 @@ Most of my repositories are experiments, school/course projects, UI ideas, APIs,
     <td width="50%">
       <h3 align="center">Nvim Config</h3>
       <p align="center">
-        <a href="https://github.com/PinkMath/Nvim-config">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PinkMath&repo=Nvim-config&theme=dracula&hide_border=true" alt="Nvim Config" />
+        <a href="https://github.com/loavy/Nvim-config">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=loavy&repo=Nvim-config&theme=dracula&hide_border=true" alt="Nvim Config" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">HyprFlo</h3>
       <p align="center">
-        <a href="https://github.com/PinkMath/HyprFlo">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PinkMath&repo=HyprFlo&theme=dracula&hide_border=true" alt="HyprFlo" />
+        <a href="https://github.com/loavy/HyprFlo">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=loavy&repo=HyprFlo&theme=dracula&hide_border=true" alt="HyprFlo" />
         </a>
       </p>
     </td>
@@ -93,16 +93,16 @@ Most of my repositories are experiments, school/course projects, UI ideas, APIs,
     <td width="50%">
       <h3 align="center">Ferret AI</h3>
       <p align="center">
-        <a href="https://github.com/PinkMath/Ferret-AI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PinkMath&repo=Ferret-AI&theme=dracula&hide_border=true" alt="Ferret AI" />
+        <a href="https://github.com/loavy/Ferret-AI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=loavy&repo=Ferret-AI&theme=dracula&hide_border=true" alt="Ferret AI" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">ZingFiles</h3>
       <p align="center">
-        <a href="https://github.com/PinkMath/ZingFiles">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PinkMath&repo=ZingFiles&theme=dracula&hide_border=true" alt="ZingFiles" />
+        <a href="https://github.com/loavy/ZingFiles">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=loavy&repo=ZingFiles&theme=dracula&hide_border=true" alt="ZingFiles" />
         </a>
       </p>
     </td>
@@ -125,18 +125,18 @@ Most of my repositories are experiments, school/course projects, UI ideas, APIs,
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PinkMath&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkMath&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=loavy&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loavy&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
 
 <br />
 <br />
 
-<img src="https://streak-stats.demolab.com?user=PinkMath&theme=dracula&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=loavy&theme=dracula&hide_border=true" alt="GitHub streak" />
 
 <br />
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PinkMath&theme=dracula&hide_border=true&area=true" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=loavy&theme=dracula&hide_border=true&area=true" alt="Contribution graph" />
 
 </div>
 
@@ -146,7 +146,7 @@ Most of my repositories are experiments, school/course projects, UI ideas, APIs,
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-PinkMath-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PinkMath)
+[![GitHub](https://img.shields.io/badge/GitHub-loavy-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loavy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Souza-0d1117?style=for-the-badge&logo=linkedin&logoColor=8be9fd)](https://www.linkedin.com/in/matheussouza2008)
 
 </div>
