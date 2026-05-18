@@ -155,7 +155,7 @@ Most of my repositories are experiments, school/course projects, UI ideas, APIs,
 
 <div align="center">
 
-### Thanks for visiting 💗
+### Thanks for visiting
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=120&section=footer" alt="Footer wave" />
 
