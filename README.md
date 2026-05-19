@@ -77,8 +77,8 @@ Most of my repositories are experiments, course projects, UI ideas, APIs, config
   <tr>
     <td width="50%" align="center">
       <h3>Nvim Config</h3>
-      <a href="https://github.com/loavy/Nvim-config">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loavy&repo=Nvim-config&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9" alt="Nvim Config" />
+      <a href="https://github.com/loavy/nvim">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loavy&repo=nvim&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9" alt="Nvim Config" />
       </a>
     </td>
     <td width="50%" align="center">
