@@ -126,12 +126,6 @@ Most of my repositories are experiments, course projects, UI ideas, APIs, config
 
 ## github stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=loavy&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loavy&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2" alt="Top languages" />
-
-<br />
-<br />
-
 <img src="https://streak-stats.demolab.com?user=loavy&theme=dracula&hide_border=true&background=0D1117&ring=FF79C6&fire=BD93F9&currStreakLabel=FF79C6" alt="GitHub streak" />
 
 <br />
