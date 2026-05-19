@@ -1,153 +1,143 @@
 <div align="center">
 
-# Hi, I'm Matheus Souza 👋
-
-### Full-stack · Linux enjoyer · Neovim tinkerer · Building things one repo at a time
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=FF79C6&center=true&vCenter=true&width=650&lines=I+like+clean+setups+and+simple+code.;Currently+learning+web+development.;I+use+Arch+BTW.;Always+trying+to+make+my+workflow+better." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF7276&height=180&section=header&text=Loavy&fontSize=42&fontColor=f8f8f2&animation=fadeIn&fontAlignY=35" />
 
 <br />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=loavy&style=flat-square&color=ff79c6&label=profile+views)](https://github.com/loavy)
-[![GitHub followers](https://img.shields.io/github/followers/loavy?style=flat-square&label=followers&color=bd93f9&labelColor=0d1117)](https://github.com/loavy?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Souza-8be9fd?style=flat-square&labelColor=0d1117&logo=linkedin)](https://www.linkedin.com/in/matheussouza2008)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=900&color=BD93F9&center=true&vCenter=true&width=650&lines=Full-stack+developer+in+progress.;Linux+enjoyer+and+Neovim+tinkerer.;I+like+clean+setups+and+simple+code.;Building+things+one+repo+at+a+time." alt="Typing SVG" />
+
+<br />
+<br />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=loavy&style=for-the-badge&color=ff79c6&label=views)](https://github.com/loavy)
+[![Followers](https://img.shields.io/github/followers/loavy?style=for-the-badge&label=followers&color=bd93f9&labelColor=0d1117)](https://github.com/loavy?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Souza-8be9fd?style=for-the-badge&labelColor=0d1117&logo=linkedin)](https://www.linkedin.com/in/matheussouza2008)
 
 </div>
 
 ---
-
-## About me
-
-```txt
-name        : Matheus Souza
-username    : loavy
-focus       : Full-stack, UI, APIs, Linux, tooling
-editor      : Neovim / VS Code
-os          : Arch Linux + Windows
-learning    : JavaScript, React, TypeScript, Node.js, MySQL
-vibe        : minimal, clean, fast
-```
-
-I'm a developer in progress who likes building small projects, customizing my setup, and learning by actually making things.
-Most of my repositories are experiments, school/course projects, UI ideas, APIs, and tools that help me understand web development better.
-
----
-
-## Tech stack
 
 <div align="center">
 
-### Languages
+## `whoami`
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f1fa8c)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=8be9fd)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=50fa7b)
-![Lua](https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua&logoColor=bd93f9)
-![Shell](https://img.shields.io/badge/Shell-0d1117?style=for-the-badge&logo=gnubash&logoColor=ff79c6)
+</div>
 
-### Front-end
+```txt
+name      : Matheus Souza
+username  : loavy
+role      : Full-stack developer in progress
+focus     : Web development, UI, APIs, Linux, tooling
+editor    : Neovim / VS Code
+os        : Arch Linux + Windows
+learning  : JavaScript, React, TypeScript, Node.js, MySQL
+vibe      : minimal, clean, fast
+```
 
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=ff5555)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=8be9fd)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=8be9fd)
+<div align="center">
 
-### Back-end & database
-
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=50fa7b)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=8be9fd)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff5555)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=f8f8f2)
-![Neovim](https://img.shields.io/badge/Neovim-0d1117?style=for-the-badge&logo=neovim&logoColor=50fa7b)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=8be9fd)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=f1fa8c)
+I like building small projects, customizing my setup, and learning by making real things.  
+Most of my repositories are experiments, course projects, UI ideas, APIs, configs, and tools.
 
 </div>
 
 ---
 
-## Featured projects
+<div align="center">
 
-<table>
+## tech stack
+
+### languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,lua,bash&theme=dark" />
+
+### front-end
+
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+
+### back-end & database
+
+<img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" />
+
+### tools
+
+<img src="https://skillicons.dev/icons?i=git,github,neovim,vscode,linux,arch&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+## featured projects
+
+</div>
+
+<table align="center">
   <tr>
-    <td width="50%">
-      <h3 align="center">Nvim Config</h3>
-      <p align="center">
-        <a href="https://github.com/loavy/Nvim-config">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=loavy&repo=Nvim-config&theme=dracula&hide_border=true" alt="Nvim Config" />
-        </a>
-      </p>
+    <td width="50%" align="center">
+      <h3>Nvim Config</h3>
+      <a href="https://github.com/loavy/Nvim-config">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loavy&repo=Nvim-config&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9" alt="Nvim Config" />
+      </a>
     </td>
-    <td width="50%">
-      <h3 align="center">HyprFlo</h3>
-      <p align="center">
-        <a href="https://github.com/loavy/HyprFlo">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=loavy&repo=HyprFlo&theme=dracula&hide_border=true" alt="HyprFlo" />
-        </a>
-      </p>
+    <td width="50%" align="center">
+      <h3>HyprFlo</h3>
+      <a href="https://github.com/loavy/HyprFlo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loavy&repo=HyprFlo&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9" alt="HyprFlo" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">Ferret AI</h3>
-      <p align="center">
-        <a href="https://github.com/loavy/Ferret-AI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=loavy&repo=Ferret-AI&theme=dracula&hide_border=true" alt="Ferret AI" />
-        </a>
-      </p>
+    <td width="50%" align="center">
+      <h3>Ferret AI</h3>
+      <a href="https://github.com/loavy/Ferret-AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loavy&repo=Ferret-AI&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9" alt="Ferret AI" />
+      </a>
     </td>
-    <td width="50%">
-      <h3 align="center">ZingFiles</h3>
-      <p align="center">
-        <a href="https://github.com/loavy/ZingFiles">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=loavy&repo=ZingFiles&theme=dracula&hide_border=true" alt="ZingFiles" />
-        </a>
-      </p>
+    <td width="50%" align="center">
+      <h3>ZingFiles</h3>
+      <a href="https://github.com/loavy/ZingFiles">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loavy&repo=ZingFiles&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9" alt="ZingFiles" />
+      </a>
     </td>
   </tr>
 </table>
 
 ---
 
-## What I'm working on
-
-- Making my **Neovim setup** cleaner, faster, and nicer to use.
-- Learning more about **React**, **TypeScript**, and **Node.js**.
-- Building course projects and small apps to practice real development.
-- Improving my Linux workflow with configs, scripts, and custom tools.
-- Creating projects with a clean interface and simple user experience.
-
----
-
-## GitHub stats
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=loavy&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loavy&layout=compact&theme=dracula&hide_border=true" alt="Top languages" />
-
-<br />
-<br />
-
-<img src="https://streak-stats.demolab.com?user=loavy&theme=dracula&hide_border=true" alt="GitHub streak" />
-
-<br />
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=loavy&theme=dracula&hide_border=true&area=true" alt="Contribution graph" />
+## currently working on
 
 </div>
 
----
+```txt
+• improving my Neovim setup
+• learning React, TypeScript, and Node.js
+• building small web apps and course projects
+• making my Linux workflow cleaner
+• creating simple and good-looking interfaces
+```
 
-## Connect with me
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-loavy-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loavy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Souza-0d1117?style=for-the-badge&logo=linkedin&logoColor=8be9fd)](https://www.linkedin.com/in/matheussouza2008)
+## github stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=loavy&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loavy&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2" alt="Top languages" />
+
+<br />
+<br />
+
+<img src="https://streak-stats.demolab.com?user=loavy&theme=dracula&hide_border=true&background=0D1117&ring=FF79C6&fire=BD93F9&currStreakLabel=FF79C6" alt="GitHub streak" />
+
+<br />
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=loavy&theme=dracula&hide_border=true&bg_color=0d1117&color=f8f8f2&line=ff79c6&point=bd93f9&area=true" alt="Contribution graph" />
 
 </div>
 
@@ -155,8 +145,24 @@ Most of my repositories are experiments, school/course projects, UI ideas, APIs,
 
 <div align="center">
 
-### Thanks for visiting
+## connect with me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=120&section=footer" alt="Footer wave" />
+<br />
+
+<a href="https://github.com/loavy">
+  <img src="https://img.shields.io/badge/GitHub-loavy-0d1117?style=for-the-badge&logo=github&logoColor=f8f8f2" />
+</a>
+<a href="https://www.linkedin.com/in/matheussouza2008">
+  <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Souza-0d1117?style=for-the-badge&logo=linkedin&logoColor=8be9fd" />
+</a>
+
+<br />
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=50FA7B&center=true&vCenter=true&width=500&lines=thanks+for+visiting+my+profile.;feel+free+to+check+my+repos." alt="Thanks typing SVG" />
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=footer" />
 
 </div>
