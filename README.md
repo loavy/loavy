@@ -10,7 +10,6 @@
 <br />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=loavy&style=for-the-badge&color=ff79c6&label=views)](https://github.com/loavy)
-[![Followers](https://img.shields.io/github/followers/loavy?style=for-the-badge&label=followers&color=bd93f9&labelColor=0d1117)](https://github.com/loavy?tab=followers)
 
 </div>
 
