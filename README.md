@@ -11,15 +11,12 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=loavy&style=for-the-badge&color=ff79c6&label=views)](https://github.com/loavy)
 [![Followers](https://img.shields.io/github/followers/loavy?style=for-the-badge&label=followers&color=bd93f9&labelColor=0d1117)](https://github.com/loavy?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Souza-8be9fd?style=for-the-badge&labelColor=0d1117&logo=linkedin)](https://www.linkedin.com/in/matheussouza2008)
 
 </div>
 
 ---
 
 <div align="center">
-
-## `whoami`
 
 </div>
 
