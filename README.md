@@ -32,7 +32,7 @@
 
 art made by my wife <3
 
-<img align="left" width="330" alt="20260805_004332" src="https://github.com/user-attachments/assets/746cdc6e-25e4-4e6b-81b5-e4c3e316ccdb" />
+<img align="left" width="325" alt="20260805_004332" src="https://github.com/user-attachments/assets/746cdc6e-25e4-4e6b-81b5-e4c3e316ccdb" />
 
 <div align="right">
 
