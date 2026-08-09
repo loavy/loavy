@@ -1,133 +1,74 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF7276&height=180&section=header&text=Loavy&fontSize=42&fontColor=f8f8f2&animation=fadeIn&fontAlignY=35" />
+# ✦ Hi, I'm Loavy! ˚₊‧
 
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=900&color=BD93F9&center=true&vCenter=true&width=650&lines=Full-stack+developer+in+progress.;Linux+enjoyer+and+Neovim+tinkerer.;I+like+clean+setups+and+simple+code.;Building+things+one+repo+at+a+time." alt="Typing SVG" />
-
-<br />
-<br />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=loavy&style=for-the-badge&color=ff79c6&label=views)](https://github.com/loavy)
+<sub>♡ building, learning & making things I think are cool ♡</sub>
 
 </div>
 
 ---
 
-<div align="center">
+<img align="right" width="210" alt="3dde7f1bf2b9c2190e3807f261d7ab29" src="https://github.com/user-attachments/assets/926d2786-ae33-44bc-89bf-bb2b50e040fe" />
 
+<div align="left">
+  
+  ### ✦ about me
+  
+  <p> <b> I'm a developer who enjoys learning by actually **building things**. </b> </p>
+  
+  <p> <b> I like working with web development, creating clean interfaces, experimenting with APIs, </b> </p>
+  <p> <b> customizing my Linux setup, and spending way too much time making my editor look nice. </b> </p>
 </div>
 
 ```txt
-name      : Matheus Souza
-username  : loavy
-role      : Full-stack developer in progress
-focus     : Web development, UI, APIs, Linux, tooling
-editor    : Neovim / VS Code
-os        : Arch Linux + Windows
-learning  : JavaScript, React, TypeScript, Node.js, MySQL
-vibe      : minimal, clean, fast
-```
-
-<div align="center">
-
-I like building small projects, customizing my setup, and learning by making real things.  
-Most of my repositories are experiments, course projects, UI ideas, APIs, configs, and tools.
-
-</div>
-
----
-
-<div align="center">
-
-## tech stack
-
-### languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,lua,bash&theme=dark" />
-
-### front-end
-
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
-
-### back-end & database
-
-<img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" />
-
-### tools
-
-<img src="https://skillicons.dev/icons?i=git,github,neovim,vscode,linux,arch&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-## featured projects
-
-</div>
-
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h3>Nvim Config</h3>
-      <a href="https://github.com/loavy/nvim">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loavy&repo=nvim&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9" alt="Nvim Config" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <h3>HyprFlo</h3>
-      <a href="https://github.com/loavy/HyprFlo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loavy&repo=HyprFlo&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9" alt="HyprFlo" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>Ferret AI</h3>
-      <a href="https://github.com/loavy/Ferret-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loavy&repo=Ferret-AI&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9" alt="Ferret AI" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <h3>ZingFiles</h3>
-      <a href="https://github.com/loavy/ZingFiles">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=loavy&repo=ZingFiles&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9" alt="ZingFiles" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-## currently working on
-
-</div>
-
-```txt
-• improving my Neovim setup
-• learning React, TypeScript, and Node.js
-• building small web apps and course projects
-• making my Linux workflow cleaner
-• creating simple and good-looking interfaces
+♡ focus     → web development · ui · apis
+♡ editor    → neovim · vscode
+♡ os        → arch linux · windows
+♡ learning  → react · typescript · node.js · mysql
+♡ vibe      → cute · clean · fast
 ```
 
 ---
 
+art made by my wife <3
+
+<img align="left" width="330" alt="20260805_004332" src="https://github.com/user-attachments/assets/746cdc6e-25e4-4e6b-81b5-e4c3e316ccdb" />
+
+<div align="right">
+
+### ✦ my stack
+
+#### languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" />
+
+<br>
+
+#### front-end
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" />
+
+<br>
+
+#### back-end & database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" />
+
+<br>
+
+#### tools & environment
+
+<img src="https://skillicons.dev/icons?i=git,github,neovim,vscode,arch,linux&theme=dark" />
+
+</div>
+
+---
+
+<br>
+
 <div align="center">
 
-## github stats
-
-<img src="https://streak-stats.demolab.com?user=loavy&theme=dracula&hide_border=true&background=0D1117&ring=FF79C6&fire=BD93F9&currStreakLabel=FF79C6" alt="GitHub streak" />
-
-<br />
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=loavy&theme=dracula&hide_border=true&bg_color=0d1117&color=f8f8f2&line=ff79c6&point=bd93f9&area=true" alt="Contribution graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=loavy&theme=transparent&hide_border=true&ring=ff79c6&fire=bd93f9&currStreakLabel=ff79c6" />
 
 </div>
 
@@ -135,21 +76,16 @@ Most of my repositories are experiments, course projects, UI ideas, APIs, config
 
 <div align="center">
 
-## connect with me
+```txt
+        /\_/\
+       ( o.o )
+        > ^ <
+```
 
-<br />
+<sub>thanks for visiting my little corner of github ♡</sub>
 
-<a href="https://github.com/loavy">
-  <img src="https://img.shields.io/badge/GitHub-loavy-0d1117?style=for-the-badge&logo=github&logoColor=f8f8f2" />
-</a>
+<br>
 
-<br />
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=50FA7B&center=true&vCenter=true&width=500&lines=thanks+for+visiting+my+profile.;feel+free+to+check+my+repos." alt="Thanks typing SVG" />
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=120&section=footer" />
+`code · coffee · linux · repeat`
 
 </div>
