@@ -142,9 +142,6 @@ Most of my repositories are experiments, course projects, UI ideas, APIs, config
 <a href="https://github.com/loavy">
   <img src="https://img.shields.io/badge/GitHub-loavy-0d1117?style=for-the-badge&logo=github&logoColor=f8f8f2" />
 </a>
-<a href="https://www.linkedin.com/in/matheussouza2008">
-  <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Souza-0d1117?style=for-the-badge&logo=linkedin&logoColor=8be9fd" />
-</a>
 
 <br />
 <br />
