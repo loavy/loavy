@@ -79,7 +79,7 @@ art made by my wife <3
 ```txt
         /\_/\
        ( o.o )
-        > ^ <
+        > ♡ <
 ```
 
 <sub>thanks for visiting my little corner of github ♡</sub>
