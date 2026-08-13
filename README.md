@@ -64,16 +64,6 @@ art made by my wife <3
 
 ---
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=loavy&theme=transparent&hide_border=true&ring=ff79c6&fire=bd93f9&currStreakLabel=ff79c6" />
-
-</div>
-
----
-
 <div align="center">
 
 ```txt
