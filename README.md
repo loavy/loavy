@@ -22,9 +22,9 @@
 
 ```txt
 ♡ focus     → web development · ui · apis
-♡ editor    → neovim · vscode
-♡ os        → arch linux · windows
-♡ learning  → react · typescript · node.js · mysql
+♡ editor    → neovim · vim · vscode
+♡ os        → Linux · Windows
+♡ learning  → react · typescript · mysql
 ♡ vibe      → cute · clean · fast
 ```
 
