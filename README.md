@@ -58,7 +58,7 @@ art made by my wife <3
 
 #### tools & environment
 
-<img src="https://skillicons.dev/icons?i=git,github,neovim,vscode,arch,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,neovim,vscode,linux&theme=dark" />
 
 </div>
 
